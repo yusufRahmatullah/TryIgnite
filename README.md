@@ -62,3 +62,6 @@ The `.env` file is ignored by git keeping those secrets out of your repo.
 
 ## :open_file_folder: Related Articles
 Ignite Documentation - [Ignite Wiki https://github.com/infinitered/ignite/wiki](https://github.com/infinitered/ignite/wiki)
+=======
+# TryIgnite
+Try React-Native using Ignite Framework
